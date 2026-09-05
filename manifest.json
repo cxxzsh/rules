@@ -203,7 +203,7 @@
       },
       "path": "surge/apple.list",
       "rules": 56,
-      "sha256": "c68e621b897e087774d934b4a7b05e95d181361da5180cd43a14106743df748c"
+      "sha256": "15ffef8917c15e00aeb207e8c47867372597cfe96601a10de673fc5c0e16c530"
     },
     {
       "bytes": 1830,
@@ -317,7 +317,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "d58c7adf2e52448d649bd092a4c9df89107eaea8",
-  "privateCommit": "5996482d3b860019848ea507dc834b705e039979",
+  "artifactsCommit": "7f710dcde962666abb46ca3d01575d66acd26e64",
+  "privateCommit": "b0b9d90e49e35e9fc9ba49a50cefab8389841f88",
   "schema": 1
 }
