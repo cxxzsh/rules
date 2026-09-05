@@ -2,28 +2,58 @@
   "artifacts": [
     {
       "bytes": 23601,
+      "kinds": {
+        "DOMAIN-KEYWORD": 278,
+        "IP-CIDR": 486,
+        "IP-CIDR6": 3
+      },
       "path": "clash/ads.yaml",
+      "rules": 767,
       "sha256": "ec8002a1ccc86364ae558a63c74e302c796be0a71d44ee90d1d1a1a77c87591c"
     },
     {
-      "bytes": 1296,
+      "bytes": 1362,
+      "kinds": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 33,
+        "PROCESS-NAME": 1
+      },
       "path": "clash/ai.yaml",
-      "sha256": "499111bfd126183fa16073edfecad58feed5297a2bb08c19b7e92864eda4c5ea"
+      "rules": 42,
+      "sha256": "a2103ebf886848170fd1c67c7c599af6846d66176b06f7292dd3f490e1db5a00"
     },
     {
       "bytes": 183,
+      "kinds": {
+        "DOMAIN-SUFFIX": 5
+      },
       "path": "clash/app-clean.yaml",
+      "rules": 5,
       "sha256": "a0953b51b5255beef13bc4d7bcd28183032b9a063010305b9d40936de4ea6459"
     },
     {
       "bytes": 1000,
+      "kinds": {
+        "DOMAIN-KEYWORD": 7,
+        "IP-CIDR": 10,
+        "IP-CIDR6": 3,
+        "PROCESS-NAME": 13
+      },
       "path": "clash/apple.yaml",
+      "rules": 33,
       "sha256": "0803af9d77f9820651880bbcc430d00c88a4830879fabcc09367524461c893a1"
     },
     {
-      "bytes": 841,
+      "bytes": 812,
+      "kinds": {
+        "DOMAIN-KEYWORD": 8,
+        "IP-CIDR": 17,
+        "IP-CIDR6": 4
+      },
       "path": "clash/china.yaml",
-      "sha256": "f8dcb128d9439d1017f482d4c920ca175dcf179ae8904aecf7194291aa80b73b"
+      "rules": 29,
+      "sha256": "dc6a802cc7b7a2597d90b5b14e19b3be767bbd2a02d7ef0f63c9d966a053d268"
     },
     {
       "bytes": 37757,
@@ -31,28 +61,62 @@
       "sha256": "712297b127f727f34532b3ea43ab77d3a35ac7bc8651ef8b77ad92e7d3ef2f80"
     },
     {
-      "bytes": 1073,
+      "bytes": 1037,
+      "kinds": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 29
+      },
       "path": "clash/github.yaml",
-      "sha256": "9849851f3416e235d05fe76315415e6f6e9758ce2c9c3e5f21c0059e830fc984"
+      "rules": 30,
+      "sha256": "e1aaf6b4ee8650555ecc0a10aec14c0f66edef9b23f15a4c98901f4dc6a6c4e9"
     },
     {
       "bytes": 1310,
+      "kinds": {
+        "DOMAIN": 15,
+        "IP-CIDR": 26
+      },
       "path": "clash/google-fcm.yaml",
+      "rules": 41,
       "sha256": "4c61f26687e30d465196c6f424bb6f17f59aedb7824b88135ffa14d9a87113ac"
     },
     {
-      "bytes": 22418,
+      "bytes": 22196,
+      "kinds": {
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 680,
+        "IP-CIDR": 2,
+        "PROCESS-NAME": 6
+      },
       "path": "clash/google.yaml",
-      "sha256": "315c489b8f34e7558e511d61e1f45d65c3eafb0daa940fb211ac4f465b13314f"
+      "rules": 694,
+      "sha256": "a2ecd0f3e9166abeac9c5858c9731a8ea8d0cedc78ab163476c8ec9a0ce021bf"
     },
     {
-      "bytes": 13243,
+      "bytes": 56664,
+      "kinds": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 381,
+        "IP-CIDR": 1117,
+        "IP-CIDR6": 5,
+        "PROCESS-NAME": 3
+      },
       "path": "clash/media.yaml",
-      "sha256": "da5a6c0bc494b15dbae041a48b70cf7e670e08fe1b341a80c8f6aa9ec3b39a79"
+      "rules": 1514,
+      "sha256": "408348fa69970716bf590baf187dfb8c2e8362de6860334c91def45a3beb0576"
     },
     {
       "bytes": 22996,
+      "kinds": {
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 4,
+        "DOMAIN-SUFFIX": 663,
+        "PROCESS-NAME": 2
+      },
       "path": "clash/microsoft.yaml",
+      "rules": 670,
       "sha256": "17033b680bd59759a9ab2bbee4744920017351f0bba77b02b397add107e8bbbe"
     },
     {
@@ -62,86 +126,198 @@
     },
     {
       "bytes": 569,
+      "kinds": {
+        "DOMAIN": 12,
+        "DOMAIN-SUFFIX": 5
+      },
       "path": "clash/steam-cn.yaml",
+      "rules": 17,
       "sha256": "f1af43d32ea513fc9097b92241330025a2ab04b16d446e5ea554d97829fc0d8e"
     },
     {
       "bytes": 2104,
+      "kinds": {
+        "DOMAIN-KEYWORD": 3,
+        "DOMAIN-SUFFIX": 51
+      },
       "path": "clash/steam.yaml",
+      "rules": 54,
       "sha256": "8902faf19319fac83c00fab05ea1d46662fe36b1ecc4e5c6633cfce3b195304f"
     },
     {
       "bytes": 1342,
+      "kinds": {
+        "DOMAIN": 2,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 22,
+        "IP-ASN": 5,
+        "IP-CIDR": 6,
+        "IP-CIDR6": 4,
+        "PROCESS-NAME": 6
+      },
       "path": "clash/telegram.yaml",
+      "rules": 46,
       "sha256": "4c773b0c834dcfda27e5e9f4289e52bc37abe915081da80f378b3e3385d26369"
     },
     {
       "bytes": 26616,
+      "kinds": {
+        "AND": 1,
+        "DOMAIN-KEYWORD": 278,
+        "IP-CIDR": 486,
+        "IP-CIDR6": 3,
+        "URL-REGEX": 14
+      },
       "path": "surge/ads.list",
+      "rules": 782,
       "sha256": "00acb141f0297e8989516ce9aab8a7efd0fcccd16a0677df0472d635e65bc8e1"
     },
     {
-      "bytes": 1162,
+      "bytes": 1220,
+      "kinds": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 33
+      },
       "path": "surge/ai.list",
-      "sha256": "44aebcd85e3c6373be7aac808cba5a1d6fc13564a538a585c4d25e823d3e67d2"
+      "rules": 41,
+      "sha256": "0ea2e0795325986e5e8559c6b3f0dce77bc4d96e541a4088f232c8670d5dcb8d"
     },
     {
       "bytes": 213,
+      "kinds": {
+        "DOMAIN-SUFFIX": 5
+      },
       "path": "surge/app-clean.list",
+      "rules": 5,
       "sha256": "8f2be7370f9eb6189e78df95feb8197a45058f301815500924d719f73ea27644"
     },
     {
       "bytes": 1608,
+      "kinds": {
+        "DOMAIN-KEYWORD": 7,
+        "IP-CIDR": 10,
+        "IP-CIDR6": 3,
+        "PROCESS-NAME": 13,
+        "USER-AGENT": 23
+      },
       "path": "surge/apple.list",
+      "rules": 56,
       "sha256": "c68e621b897e087774d934b4a7b05e95d181361da5180cd43a14106743df748c"
     },
     {
-      "bytes": 1877,
+      "bytes": 1830,
+      "kinds": {
+        "DOMAIN-KEYWORD": 8,
+        "DOMAIN-SUFFIX": 2,
+        "IP-CIDR": 17,
+        "IP-CIDR6": 4,
+        "USER-AGENT": 30
+      },
       "path": "surge/china.list",
-      "sha256": "60284e0948ddbb4952dad3e846f5ea96c712dfe584dc5c97f8058b76bce6908a"
+      "rules": 61,
+      "sha256": "bf28f8f9f70761bbd359c90e34719c0c73040e43e0b15e078b8f6343009749ae"
     },
     {
-      "bytes": 999,
+      "bytes": 967,
+      "kinds": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 29
+      },
       "path": "surge/github.list",
-      "sha256": "d28c0048087d6c0e90ba82536caec91a7d0588b254a0d7ce9c696f362ab42f02"
+      "rules": 30,
+      "sha256": "0bfa24eb603b991fc0991ee9534a8280bfcb5bbd7249156bbb9f9331cf6b8172"
     },
     {
       "bytes": 1482,
+      "kinds": {
+        "DOMAIN": 15,
+        "IP-CIDR": 26
+      },
       "path": "surge/google-fcm.list",
+      "rules": 41,
       "sha256": "1d7664de81ba7f0e2a39d4abe62b67fedf5273db9f6b32315dddfc1f01c572ae"
     },
     {
-      "bytes": 19792,
+      "bytes": 19565,
+      "kinds": {
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 680,
+        "IP-CIDR": 2,
+        "PROCESS-NAME": 5,
+        "USER-AGENT": 3
+      },
       "path": "surge/google.list",
-      "sha256": "b4790aced5ce3d70bdba3ba4b8b4c55cb881211e2e02c2b950c40e7b383b3345"
+      "rules": 696,
+      "sha256": "0e9ec8fff28227e6f8bb3b72331823d9a6ccce9ba88b3cfc4f79cb879fccfec8"
     },
     {
       "bytes": 50936,
+      "kinds": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 5,
+        "DOMAIN-SUFFIX": 381,
+        "IP-CIDR": 1117,
+        "IP-CIDR6": 5,
+        "PROCESS-NAME": 3,
+        "USER-AGENT": 9
+      },
       "path": "surge/media.list",
+      "rules": 1523,
       "sha256": "94c3bfe3c18faf83197f8d1f5efd6a2b8bdd17ac71135c29bbf24fca7c4717e8"
     },
     {
       "bytes": 20436,
+      "kinds": {
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 4,
+        "DOMAIN-SUFFIX": 663,
+        "PROCESS-NAME": 2,
+        "USER-AGENT": 3
+      },
       "path": "surge/microsoft.list",
+      "rules": 673,
       "sha256": "9a1f81bb60ee617986ed2d71e2a54b68eaf89bceb46d8f08ff1388d9b3a209e4"
     },
     {
       "bytes": 551,
+      "kinds": {
+        "DOMAIN": 12,
+        "DOMAIN-SUFFIX": 5
+      },
       "path": "surge/steam-cn.list",
+      "rules": 17,
       "sha256": "6ec3ec862bc91f25c46fd143fae48c435b443cfa5c3d75affbbedbdda3fb39e8"
     },
     {
       "bytes": 1938,
+      "kinds": {
+        "DOMAIN-KEYWORD": 3,
+        "DOMAIN-SUFFIX": 51
+      },
       "path": "surge/steam.list",
+      "rules": 54,
       "sha256": "81f8747d1193476aab4c1c211ab6caad1025c828ce4650529802d8447488fb02"
     },
     {
       "bytes": 1483,
+      "kinds": {
+        "DOMAIN": 2,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 22,
+        "IP-ASN": 5,
+        "IP-CIDR": 6,
+        "IP-CIDR6": 4,
+        "OR": 1,
+        "PROCESS-NAME": 5
+      },
       "path": "surge/telegram.list",
+      "rules": 46,
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "623dd78ef17f8fd01faae677b14fbe77b4b958da",
-  "privateCommit": "8842b613a7db37401478c5d5b0a7bc72fe9cd331",
+  "artifactsCommit": "d58c7adf2e52448d649bd092a4c9df89107eaea8",
+  "privateCommit": "5996482d3b860019848ea507dc834b705e039979",
   "schema": 1
 }
