@@ -7,7 +7,6 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
-DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 IP-CIDR,1.255.62.0/24,no-resolve
@@ -44,7 +43,6 @@ USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
 USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
