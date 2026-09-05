@@ -6,9 +6,9 @@
       "sha256": "ec8002a1ccc86364ae558a63c74e302c796be0a71d44ee90d1d1a1a77c87591c"
     },
     {
-      "bytes": 1162,
+      "bytes": 1296,
       "path": "clash/ai.yaml",
-      "sha256": "8f5e02f2e9a9cc9c1ed4e480524a37a35e5c5697d223140d0ab02b89bb6d0af1"
+      "sha256": "499111bfd126183fa16073edfecad58feed5297a2bb08c19b7e92864eda4c5ea"
     },
     {
       "bytes": 183,
@@ -81,9 +81,9 @@
       "sha256": "00acb141f0297e8989516ce9aab8a7efd0fcccd16a0677df0472d635e65bc8e1"
     },
     {
-      "bytes": 1048,
+      "bytes": 1162,
       "path": "surge/ai.list",
-      "sha256": "8d3cafc05a8b9a993c41d970689694dba14eedcee0b82329895255151bc788f7"
+      "sha256": "44aebcd85e3c6373be7aac808cba5a1d6fc13564a538a585c4d25e823d3e67d2"
     },
     {
       "bytes": 213,
@@ -141,7 +141,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "4a412bf5c22377140ad5f25cecd7ec31b315bc48",
-  "privateCommit": "c0c39d0f145af3d20dac68adee7ec7a05b7e130e",
+  "artifactsCommit": "623dd78ef17f8fd01faae677b14fbe77b4b958da",
+  "privateCommit": "8842b613a7db37401478c5d5b0a7bc72fe9cd331",
   "schema": 1
 }
