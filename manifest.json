@@ -1,0 +1,137 @@
+{
+  "artifacts": [
+    {
+      "bytes": 23601,
+      "path": "clash/ads.yaml",
+      "sha256": "ec8002a1ccc86364ae558a63c74e302c796be0a71d44ee90d1d1a1a77c87591c"
+    },
+    {
+      "bytes": 1167,
+      "path": "clash/ai.yaml",
+      "sha256": "6764a0536fcc3aec02dea251a6796e6d5a089deff600aaae395b77f7a7a1fc05"
+    },
+    {
+      "bytes": 1000,
+      "path": "clash/apple.yaml",
+      "sha256": "0803af9d77f9820651880bbcc430d00c88a4830879fabcc09367524461c893a1"
+    },
+    {
+      "bytes": 841,
+      "path": "clash/china.yaml",
+      "sha256": "f8dcb128d9439d1017f482d4c920ca175dcf179ae8904aecf7194291aa80b73b"
+    },
+    {
+      "bytes": 37757,
+      "path": "clash/cn-ip.mrs",
+      "sha256": "712297b127f727f34532b3ea43ab77d3a35ac7bc8651ef8b77ad92e7d3ef2f80"
+    },
+    {
+      "bytes": 1073,
+      "path": "clash/github.yaml",
+      "sha256": "9849851f3416e235d05fe76315415e6f6e9758ce2c9c3e5f21c0059e830fc984"
+    },
+    {
+      "bytes": 1310,
+      "path": "clash/google-fcm.yaml",
+      "sha256": "4c61f26687e30d465196c6f424bb6f17f59aedb7824b88135ffa14d9a87113ac"
+    },
+    {
+      "bytes": 22418,
+      "path": "clash/google.yaml",
+      "sha256": "315c489b8f34e7558e511d61e1f45d65c3eafb0daa940fb211ac4f465b13314f"
+    },
+    {
+      "bytes": 13243,
+      "path": "clash/media.yaml",
+      "sha256": "da5a6c0bc494b15dbae041a48b70cf7e670e08fe1b341a80c8f6aa9ec3b39a79"
+    },
+    {
+      "bytes": 22996,
+      "path": "clash/microsoft.yaml",
+      "sha256": "17033b680bd59759a9ab2bbee4744920017351f0bba77b02b397add107e8bbbe"
+    },
+    {
+      "bytes": 742,
+      "path": "clash/private.mrs",
+      "sha256": "0f9ba48d4d0b0d192a4e7c3548486dde05e5a92e6e58e8ea8c9cc302712a1420"
+    },
+    {
+      "bytes": 569,
+      "path": "clash/steam-cn.yaml",
+      "sha256": "f1af43d32ea513fc9097b92241330025a2ab04b16d446e5ea554d97829fc0d8e"
+    },
+    {
+      "bytes": 2104,
+      "path": "clash/steam.yaml",
+      "sha256": "8902faf19319fac83c00fab05ea1d46662fe36b1ecc4e5c6633cfce3b195304f"
+    },
+    {
+      "bytes": 1342,
+      "path": "clash/telegram.yaml",
+      "sha256": "4c773b0c834dcfda27e5e9f4289e52bc37abe915081da80f378b3e3385d26369"
+    },
+    {
+      "bytes": 26616,
+      "path": "surge/ads.list",
+      "sha256": "00acb141f0297e8989516ce9aab8a7efd0fcccd16a0677df0472d635e65bc8e1"
+    },
+    {
+      "bytes": 1045,
+      "path": "surge/ai.list",
+      "sha256": "2ebffe2b6ff0426377c1bd97b96b115f72f89f03d8689521ca305d47e772a4d8"
+    },
+    {
+      "bytes": 1608,
+      "path": "surge/apple.list",
+      "sha256": "c68e621b897e087774d934b4a7b05e95d181361da5180cd43a14106743df748c"
+    },
+    {
+      "bytes": 1877,
+      "path": "surge/china.list",
+      "sha256": "60284e0948ddbb4952dad3e846f5ea96c712dfe584dc5c97f8058b76bce6908a"
+    },
+    {
+      "bytes": 999,
+      "path": "surge/github.list",
+      "sha256": "d28c0048087d6c0e90ba82536caec91a7d0588b254a0d7ce9c696f362ab42f02"
+    },
+    {
+      "bytes": 1482,
+      "path": "surge/google-fcm.list",
+      "sha256": "1d7664de81ba7f0e2a39d4abe62b67fedf5273db9f6b32315dddfc1f01c572ae"
+    },
+    {
+      "bytes": 19792,
+      "path": "surge/google.list",
+      "sha256": "b4790aced5ce3d70bdba3ba4b8b4c55cb881211e2e02c2b950c40e7b383b3345"
+    },
+    {
+      "bytes": 50936,
+      "path": "surge/media.list",
+      "sha256": "94c3bfe3c18faf83197f8d1f5efd6a2b8bdd17ac71135c29bbf24fca7c4717e8"
+    },
+    {
+      "bytes": 20436,
+      "path": "surge/microsoft.list",
+      "sha256": "9a1f81bb60ee617986ed2d71e2a54b68eaf89bceb46d8f08ff1388d9b3a209e4"
+    },
+    {
+      "bytes": 551,
+      "path": "surge/steam-cn.list",
+      "sha256": "6ec3ec862bc91f25c46fd143fae48c435b443cfa5c3d75affbbedbdda3fb39e8"
+    },
+    {
+      "bytes": 1938,
+      "path": "surge/steam.list",
+      "sha256": "81f8747d1193476aab4c1c211ab6caad1025c828ce4650529802d8447488fb02"
+    },
+    {
+      "bytes": 1483,
+      "path": "surge/telegram.list",
+      "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
+    }
+  ],
+  "artifactsCommit": "50983db8e9705efd82d96334f93837f54b045864",
+  "privateCommit": "2d9ac18f00a1589428f3184c3bde673e1353cd73",
+  "schema": 1
+}
