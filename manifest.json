@@ -81,6 +81,15 @@
       "sha256": "e1aaf6b4ee8650555ecc0a10aec14c0f66edef9b23f15a4c98901f4dc6a6c4e9"
     },
     {
+      "bytes": 94,
+      "kinds": {
+        "DOMAIN-SUFFIX": 3
+      },
+      "path": "clash/global.yaml",
+      "rules": 3,
+      "sha256": "22192c39ebdedc38f92e1f5cafca2303ab8f8148b5042c77d1513038d42c4af5"
+    },
+    {
       "bytes": 1310,
       "kinds": {
         "DOMAIN": 15,
@@ -249,6 +258,15 @@
       "sha256": "0bfa24eb603b991fc0991ee9534a8280bfcb5bbd7249156bbb9f9331cf6b8172"
     },
     {
+      "bytes": 132,
+      "kinds": {
+        "DOMAIN-SUFFIX": 3
+      },
+      "path": "surge/global.list",
+      "rules": 3,
+      "sha256": "a46388057d73b7df19bf54f794d7661ac6bc0690be7dadb617712c7f79726451"
+    },
+    {
       "bytes": 1482,
       "kinds": {
         "DOMAIN": 15,
@@ -337,7 +355,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "9b0ffaf4cc53660b06c6d460ef4a4fdfcb69aaed",
-  "privateCommit": "f3d04abf2ef9f85ff85304f3d40e85388f9e181c",
+  "artifactsCommit": "a7f162f3e228fcf5cd4c0ef0b928e092adb38258",
+  "privateCommit": "dbee14006122c4f44b6ee4c5b0b880a694a8aba1",
   "schema": 1
 }
