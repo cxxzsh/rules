@@ -56,9 +56,9 @@
       "sha256": "dc6a802cc7b7a2597d90b5b14e19b3be767bbd2a02d7ef0f63c9d966a053d268"
     },
     {
-      "bytes": 37629,
+      "bytes": 37675,
       "path": "clash/cn-ip.mrs",
-      "sha256": "a8239c61440f03a32f6c0f5c71ad096aef190237acaa19913fed005891d9d9fa"
+      "sha256": "d8573e8435f16116a4ba7ef7bfe914d9615e43a812eb2a348694ef21b20e0ed3"
     },
     {
       "bytes": 413,
@@ -222,7 +222,7 @@
       },
       "path": "surge/apple.list",
       "rules": 56,
-      "sha256": "c68e621b897e087774d934b4a7b05e95d181361da5180cd43a14106743df748c"
+      "sha256": "15ffef8917c15e00aeb207e8c47867372597cfe96601a10de673fc5c0e16c530"
     },
     {
       "bytes": 1830,
@@ -355,7 +355,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "e7e227b6fa8cced9ae58a0a7c6f4bdf7f29c46fc",
-  "privateCommit": "689391ab4d284d7055598106a05068347e13fa77",
+  "artifactsCommit": "d48afe261741920be975f0f2d12e4b80398cf6a8",
+  "privateCommit": "b3304cd4164d50bbabd938d23bbb90f2c12b61bc",
   "schema": 1
 }
