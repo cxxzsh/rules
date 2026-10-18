@@ -139,9 +139,9 @@
       "sha256": "17033b680bd59759a9ab2bbee4744920017351f0bba77b02b397add107e8bbbe"
     },
     {
-      "bytes": 742,
+      "bytes": 781,
       "path": "clash/private.mrs",
-      "sha256": "0f9ba48d4d0b0d192a4e7c3548486dde05e5a92e6e58e8ea8c9cc302712a1420"
+      "sha256": "df452ab1bfb572f366f00001fa4525f16f137dc670aed2c60af0100dc397d3ec"
     },
     {
       "bytes": 569,
@@ -355,7 +355,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "7c9355754a6e7edb5ae6ee8df17a728a04c16057",
-  "privateCommit": "37f1d8690108d8a597779b36e7de475cf4631268",
+  "artifactsCommit": "9788d50dba0f8623e57400bfcb398c9f8827c278",
+  "privateCommit": "4887abd8db7ba96e394c0d2c25a5e1feaf02b384",
   "schema": 1
 }
