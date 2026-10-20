@@ -81,13 +81,13 @@
       "sha256": "e1aaf6b4ee8650555ecc0a10aec14c0f66edef9b23f15a4c98901f4dc6a6c4e9"
     },
     {
-      "bytes": 159,
+      "bytes": 94,
       "kinds": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 3
       },
       "path": "clash/global.yaml",
-      "rules": 5,
-      "sha256": "e60de08db2dd1bbf1db7d09e4ea419c6232d58267d6767c39c5e85e76b4cd14c"
+      "rules": 3,
+      "sha256": "22192c39ebdedc38f92e1f5cafca2303ab8f8148b5042c77d1513038d42c4af5"
     },
     {
       "bytes": 1310,
@@ -179,6 +179,15 @@
       "sha256": "4c773b0c834dcfda27e5e9f4289e52bc37abe915081da80f378b3e3385d26369"
     },
     {
+      "bytes": 74,
+      "kinds": {
+        "DOMAIN-SUFFIX": 2
+      },
+      "path": "clash/us.yaml",
+      "rules": 2,
+      "sha256": "aecc736de3293cc1594111bae0772ede00b761e4134c3abbb9a971f3dc5eb284"
+    },
+    {
       "bytes": 26616,
       "kinds": {
         "AND": 1,
@@ -258,13 +267,13 @@
       "sha256": "0bfa24eb603b991fc0991ee9534a8280bfcb5bbd7249156bbb9f9331cf6b8172"
     },
     {
-      "bytes": 189,
+      "bytes": 132,
       "kinds": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 3
       },
       "path": "surge/global.list",
-      "rules": 5,
-      "sha256": "f92d76cb8439dab63544cba6b5adeac057aaca2936c605c21d4a285ce84e3c64"
+      "rules": 3,
+      "sha256": "a46388057d73b7df19bf54f794d7661ac6bc0690be7dadb617712c7f79726451"
     },
     {
       "bytes": 1482,
@@ -353,9 +362,18 @@
       "path": "surge/telegram.list",
       "rules": 46,
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
+    },
+    {
+      "bytes": 116,
+      "kinds": {
+        "DOMAIN-SUFFIX": 2
+      },
+      "path": "surge/us.list",
+      "rules": 2,
+      "sha256": "48d3635804ccaebc370ad7c6044a8440a9fa1404236c18696ca5c44b126e8236"
     }
   ],
-  "artifactsCommit": "1472896e929d3514ac73aaffa5c4c0d53bc733b1",
-  "privateCommit": "0b4c3e15e4f90e0e5ead30da6bdcfd8a27fa0891",
+  "artifactsCommit": "350f7044c6201303e9231211a9965501357c2e2e",
+  "privateCommit": "fc8d496d71e3b72eab67c108510f1a6b892fbd86",
   "schema": 1
 }
