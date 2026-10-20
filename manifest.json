@@ -56,19 +56,19 @@
       "sha256": "dc6a802cc7b7a2597d90b5b14e19b3be767bbd2a02d7ef0f63c9d966a053d268"
     },
     {
-      "bytes": 38566,
+      "bytes": 38586,
       "path": "clash/cn-ip.mrs",
-      "sha256": "794f27a804c7c8272b2b9c6322aa04da34291611fd3b48bc4b761bf43b35da9a"
+      "sha256": "024ca0b05ffc31a4b8a6df25f248a944a109e49043c174ad7d52476a4790f341"
     },
     {
-      "bytes": 413,
+      "bytes": 476,
       "kinds": {
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 11
+        "DOMAIN-SUFFIX": 13
       },
       "path": "clash/finance.yaml",
-      "rules": 12,
-      "sha256": "9f65be65a0cd50f18731e4fdb3bed194ed6035d930f4c6dd8b6872a5bcfdec44"
+      "rules": 14,
+      "sha256": "68355bf9c93b4637e796b306656a9454b687492cea724de5ff943969a72b1a49"
     },
     {
       "bytes": 1037,
@@ -81,13 +81,13 @@
       "sha256": "e1aaf6b4ee8650555ecc0a10aec14c0f66edef9b23f15a4c98901f4dc6a6c4e9"
     },
     {
-      "bytes": 94,
+      "bytes": 159,
       "kinds": {
-        "DOMAIN-SUFFIX": 3
+        "DOMAIN-SUFFIX": 5
       },
       "path": "clash/global.yaml",
-      "rules": 3,
-      "sha256": "22192c39ebdedc38f92e1f5cafca2303ab8f8148b5042c77d1513038d42c4af5"
+      "rules": 5,
+      "sha256": "e60de08db2dd1bbf1db7d09e4ea419c6232d58267d6767c39c5e85e76b4cd14c"
     },
     {
       "bytes": 1310,
@@ -238,14 +238,14 @@
       "sha256": "bf28f8f9f70761bbd359c90e34719c0c73040e43e0b15e078b8f6343009749ae"
     },
     {
-      "bytes": 415,
+      "bytes": 470,
       "kinds": {
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 11
+        "DOMAIN-SUFFIX": 13
       },
       "path": "surge/finance.list",
-      "rules": 12,
-      "sha256": "61e891ca1f6198b7d72ab0f7f9b31d1284a3d80266f203c094b44ad9e22faaf4"
+      "rules": 14,
+      "sha256": "8ca076f783e9684930dc877f56ae28304af2454d70ec48c3d95d0dcb5b0b61af"
     },
     {
       "bytes": 967,
@@ -258,13 +258,13 @@
       "sha256": "0bfa24eb603b991fc0991ee9534a8280bfcb5bbd7249156bbb9f9331cf6b8172"
     },
     {
-      "bytes": 132,
+      "bytes": 189,
       "kinds": {
-        "DOMAIN-SUFFIX": 3
+        "DOMAIN-SUFFIX": 5
       },
       "path": "surge/global.list",
-      "rules": 3,
-      "sha256": "a46388057d73b7df19bf54f794d7661ac6bc0690be7dadb617712c7f79726451"
+      "rules": 5,
+      "sha256": "f92d76cb8439dab63544cba6b5adeac057aaca2936c605c21d4a285ce84e3c64"
     },
     {
       "bytes": 1482,
@@ -355,7 +355,7 @@
       "sha256": "6b28baa162716c197f74ff12084e42842e71ede7bfdc30a98162ade35e0daa69"
     }
   ],
-  "artifactsCommit": "9788d50dba0f8623e57400bfcb398c9f8827c278",
-  "privateCommit": "4887abd8db7ba96e394c0d2c25a5e1feaf02b384",
+  "artifactsCommit": "1472896e929d3514ac73aaffa5c4c0d53bc733b1",
+  "privateCommit": "0b4c3e15e4f90e0e5ead30da6bdcfd8a27fa0891",
   "schema": 1
 }
