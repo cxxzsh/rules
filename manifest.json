@@ -154,14 +154,15 @@
       "sha256": "f1af43d32ea513fc9097b92241330025a2ab04b16d446e5ea554d97829fc0d8e"
     },
     {
-      "bytes": 2104,
+      "bytes": 2534,
       "kinds": {
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 51
+        "DOMAIN-SUFFIX": 54,
+        "IP-CIDR": 12
       },
       "path": "clash/steam.yaml",
-      "rules": 54,
-      "sha256": "8902faf19319fac83c00fab05ea1d46662fe36b1ecc4e5c6633cfce3b195304f"
+      "rules": 69,
+      "sha256": "78c9b14f28e032d69988698dd1deee4e01751d36cdfd839faf8503fde5a15c61"
     },
     {
       "bytes": 1342,
@@ -338,14 +339,15 @@
       "sha256": "6ec3ec862bc91f25c46fd143fae48c435b443cfa5c3d75affbbedbdda3fb39e8"
     },
     {
-      "bytes": 1938,
+      "bytes": 2440,
       "kinds": {
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 51
+        "DOMAIN-SUFFIX": 54,
+        "IP-CIDR": 12
       },
       "path": "surge/steam.list",
-      "rules": 54,
-      "sha256": "81f8747d1193476aab4c1c211ab6caad1025c828ce4650529802d8447488fb02"
+      "rules": 69,
+      "sha256": "78ad85ee2117e50fb0369bee8f5d1af867eb4f8442e04ff9aa79909d579037f5"
     },
     {
       "bytes": 1483,
@@ -373,7 +375,7 @@
       "sha256": "48d3635804ccaebc370ad7c6044a8440a9fa1404236c18696ca5c44b126e8236"
     }
   ],
-  "artifactsCommit": "6ea6af67cdf6c08dda278864edc652048de5e0d7",
-  "privateCommit": "b125c3b89c209c74af85ae0e207145ae06ec75a5",
+  "artifactsCommit": "a3542194acd3fdf50a8522783a63d45fb9c59b31",
+  "privateCommit": "b4538d2d089abc2330635b04091d019b9c5eaf10",
   "schema": 1
 }
