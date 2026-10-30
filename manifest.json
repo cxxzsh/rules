@@ -61,14 +61,14 @@
       "sha256": "1cd97d734afafcac0708895cefa931ed19aeac28933458afdc4f9c13e915fcb5"
     },
     {
-      "bytes": 540,
+      "bytes": 571,
       "kinds": {
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 15
+        "DOMAIN-SUFFIX": 16
       },
       "path": "clash/finance.yaml",
-      "rules": 16,
-      "sha256": "938f02c74c7b8029f908249ade5f46494dfc00b4eb2f7f950be7368cffe48978"
+      "rules": 17,
+      "sha256": "f792524eb8c8f26c7de41863ffdb722dea909c82b7fc51c79c24ce80fa0b6bd5"
     },
     {
       "bytes": 1037,
@@ -248,14 +248,14 @@
       "sha256": "bf28f8f9f70761bbd359c90e34719c0c73040e43e0b15e078b8f6343009749ae"
     },
     {
-      "bytes": 526,
+      "bytes": 553,
       "kinds": {
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 15
+        "DOMAIN-SUFFIX": 16
       },
       "path": "surge/finance.list",
-      "rules": 16,
-      "sha256": "060c67a88452af00fb4639efcbc081b3f5fa4b1d42bdb6e7bbd738a243e077d0"
+      "rules": 17,
+      "sha256": "e87bba44e2dc84df196118c8b8f2eed3f10e0aeebf4093420e3b0d1442ac4fd7"
     },
     {
       "bytes": 967,
@@ -375,7 +375,7 @@
       "sha256": "48d3635804ccaebc370ad7c6044a8440a9fa1404236c18696ca5c44b126e8236"
     }
   ],
-  "artifactsCommit": "d2c5774089259ef6a072524a8d2328a1b4a995e6",
-  "privateCommit": "86080b6f7d4577d8b104ab41c5e71c99f0c6250b",
+  "artifactsCommit": "63269eea4fcded8c3c7903c8400aaa5f9250c3ba",
+  "privateCommit": "ff4f8160c2d5ea7e8aa8c7bc507932e495e5daa6",
   "schema": 1
 }
