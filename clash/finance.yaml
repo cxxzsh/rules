@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,paypal.cn
   - DOMAIN-SUFFIX,skrill.com
   - DOMAIN-SUFFIX,moneybookers.com
+  - DOMAIN-SUFFIX,neteller.com
