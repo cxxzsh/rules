@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,skrill.com
   - DOMAIN-SUFFIX,moneybookers.com
   - DOMAIN-SUFFIX,neteller.com
+  - DOMAIN-SUFFIX,payoneer.com
