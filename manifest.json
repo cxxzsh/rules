@@ -56,9 +56,9 @@
       "sha256": "dc6a802cc7b7a2597d90b5b14e19b3be767bbd2a02d7ef0f63c9d966a053d268"
     },
     {
-      "bytes": 37425,
+      "bytes": 37470,
       "path": "clash/cn-ip.mrs",
-      "sha256": "3e6cd0f0e553ece4630c104829008df125a634aad6412c911d034c969ca329cc"
+      "sha256": "937a8a20e09657aae60296e0ac1bf9db03813d5d25826aff9f2102a2e78b0e05"
     },
     {
       "bytes": 602,
@@ -375,7 +375,7 @@
       "sha256": "48d3635804ccaebc370ad7c6044a8440a9fa1404236c18696ca5c44b126e8236"
     }
   ],
-  "artifactsCommit": "0f165e8fc278186f5993edec2acba3bf15ba79d1",
-  "privateCommit": "b41e5b9c2af4292a1714d54cad23bc81ac00242c",
+  "artifactsCommit": "92b9c03f8b7f1bfbfddee285dceab88288a5d8f8",
+  "privateCommit": "34128663c0f9df0e957bbb383615751d930f9131",
   "schema": 1
 }
