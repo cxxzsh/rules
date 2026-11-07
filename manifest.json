@@ -24,13 +24,13 @@
       "sha256": "a2103ebf886848170fd1c67c7c599af6846d66176b06f7292dd3f490e1db5a00"
     },
     {
-      "bytes": 183,
+      "bytes": 1853,
       "kinds": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 55
       },
       "path": "clash/app-clean.yaml",
-      "rules": 5,
-      "sha256": "a0953b51b5255beef13bc4d7bcd28183032b9a063010305b9d40936de4ea6459"
+      "rules": 55,
+      "sha256": "3bb6fd6705f52288db8e3e148d6e315bbc60a3aa753b0b065300c39ba20167a0"
     },
     {
       "bytes": 1000,
@@ -213,13 +213,13 @@
       "sha256": "0ea2e0795325986e5e8559c6b3f0dce77bc4d96e541a4088f232c8670d5dcb8d"
     },
     {
-      "bytes": 213,
+      "bytes": 1683,
       "kinds": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 55
       },
       "path": "surge/app-clean.list",
-      "rules": 5,
-      "sha256": "8f2be7370f9eb6189e78df95feb8197a45058f301815500924d719f73ea27644"
+      "rules": 55,
+      "sha256": "e391c07778b6ce71f24808586b2ba14f2a0e9c6d6c969bdeff3f804b24d6c3db"
     },
     {
       "bytes": 1608,
@@ -375,7 +375,7 @@
       "sha256": "48d3635804ccaebc370ad7c6044a8440a9fa1404236c18696ca5c44b126e8236"
     }
   ],
-  "artifactsCommit": "92b9c03f8b7f1bfbfddee285dceab88288a5d8f8",
-  "privateCommit": "34128663c0f9df0e957bbb383615751d930f9131",
+  "artifactsCommit": "5569e986ea1a7959641fb6ceba72a1872ac22407",
+  "privateCommit": "8dc2225d02aeeb49a54e3b62f1c441e0d74d87de",
   "schema": 1
 }
